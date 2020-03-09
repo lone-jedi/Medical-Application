@@ -1,0 +1,29 @@
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\bin\Debug\ReznikProgram.exe.config
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\bin\Debug\ReznikProgram.exe
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\bin\Debug\ReznikProgram.pdb
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.csprojAssemblyReference.cache
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.Properties.Resources.resources
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.csproj.GenerateResource.cache
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.csproj.CoreCompileInputs.cache
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.exe
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.pdb
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\obj\Debug\ReznikProgram.MainForm.resources
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\bin\Debug\DatabaseReznik.mdf
+C:\Users\YarkinPC\source\repos\ReznikProgram\ReznikProgram\bin\Debug\DatabaseReznik_log.ldf
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.csprojAssemblyReference.cache
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.MainForm.resources
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.Properties.Resources.resources
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.csproj.GenerateResource.cache
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.csproj.CoreCompileInputs.cache
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.exe
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.pdb
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\DatabaseReznik.mdf
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\DatabaseReznik_log.ldf
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\ReznikProgram.exe.config
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\ReznikProgram.exe
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\ReznikProgram.pdb
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\System.Security.AccessControl.dll
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\System.Security.Permissions.dll
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\YarkinPC\Google Диск\work\резник\adonet\ReznikProgram-28e5b42e32f4af6699846f89caa43993f63c0d16\ReznikProgram\obj\Debug\ReznikProgram.csproj.CopyComplete
